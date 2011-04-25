@@ -16,6 +16,13 @@ More information can be found at the ProServer homepage:
     http://www.sanger.ac.uk/resources/software/proserver/
 
 
+
+DOWNLOAD
+
+svn co https://proserver.svn.sourceforge.net/svnroot/proserver/trunk
+
+
+
 INSTALLATION
 
 To install this module type the following:
