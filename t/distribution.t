@@ -3,7 +3,7 @@
 # Last Modified: $Date: 2010-11-02 11:37:11 +0000 (Tue, 02 Nov 2010) $ $Author: zerojinx $
 # Id:            $Id: distribution.t 687 2010-11-02 11:37:11Z zerojinx $
 # Source:        $Source: /cvsroot/Bio-DasLite/Bio-DasLite/t/00-distribution.t,v $
-# $HeadURL: http://proserver.svn.sf.net/svnroot/proserver/trunk/t/distribution.t $
+# $HeadURL: https://proserver.svn.sourceforge.net/svnroot/proserver/trunk/t/distribution.t $
 #
 package distribution;
 use strict;

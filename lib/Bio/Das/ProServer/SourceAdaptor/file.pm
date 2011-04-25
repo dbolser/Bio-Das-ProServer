@@ -4,7 +4,7 @@
 # Created:       ?
 # Last Modified: $Date: 2010-11-02 11:57:52 +0000 (Tue, 02 Nov 2010) $
 # Id$
-# $HeadURL: http://proserver.svn.sf.net/svnroot/proserver/trunk/lib/Bio/Das/ProServer/SourceAdaptor/file.pm $
+# $HeadURL: https://proserver.svn.sourceforge.net/svnroot/proserver/trunk/lib/Bio/Das/ProServer/SourceAdaptor/file.pm $
 #
 package Bio::Das::ProServer::SourceAdaptor::file;
 

@@ -5,7 +5,7 @@
 # Last Modified: $Date: 2011-02-16 17:19:14 +0000 (Wed, 16 Feb 2011) $
 # Id:            $Id: ensembl.pm 710 2011-02-16 17:19:14Z andyjenkinson $
 # Source:        $Source$
-# $HeadURL: http://proserver.svn.sf.net/svnroot/proserver/trunk/lib/Bio/Das/ProServer/SourceAdaptor/Transport/ensembl.pm $
+# $HeadURL: https://proserver.svn.sourceforge.net/svnroot/proserver/trunk/lib/Bio/Das/ProServer/SourceAdaptor/Transport/ensembl.pm $
 #
 package Bio::Das::ProServer::SourceAdaptor::Transport::ensembl;
 

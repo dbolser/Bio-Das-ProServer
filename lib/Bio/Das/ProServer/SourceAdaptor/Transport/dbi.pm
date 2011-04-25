@@ -4,7 +4,7 @@
 # Created:       2003-05-20
 # Last Modified: $Date: 2010-11-02 11:57:52 +0000 (Tue, 02 Nov 2010) $
 # Id:            $Id: dbi.pm 688 2010-11-02 11:57:52Z zerojinx $
-# $HeadURL: http://proserver.svn.sf.net/svnroot/proserver/trunk/lib/Bio/Das/ProServer/SourceAdaptor/Transport/dbi.pm $
+# $HeadURL: https://proserver.svn.sourceforge.net/svnroot/proserver/trunk/lib/Bio/Das/ProServer/SourceAdaptor/Transport/dbi.pm $
 #
 # Transport layer for DBI
 #

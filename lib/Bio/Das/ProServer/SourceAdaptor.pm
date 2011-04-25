@@ -5,7 +5,7 @@
 # Last Modified: $Date: 2011-02-03 11:32:21 +0000 (Thu, 03 Feb 2011) $ $Author: andyjenkinson $
 # Id:            $Id: SourceAdaptor.pm 708 2011-02-03 11:32:21Z andyjenkinson $
 # Source:        $Source: /nfs/team117/rmp/tmp/Bio-Das-ProServer/Bio-Das-ProServer/lib/Bio/Das/ProServer/SourceAdaptor.pm,v $
-# $HeadURL: http://proserver.svn.sf.net/svnroot/proserver/trunk/lib/Bio/Das/ProServer/SourceAdaptor.pm $
+# $HeadURL: https://proserver.svn.sourceforge.net/svnroot/proserver/trunk/lib/Bio/Das/ProServer/SourceAdaptor.pm $
 #
 # Generic SourceAdaptor. Generates XML and manages callouts for DAS functions
 #

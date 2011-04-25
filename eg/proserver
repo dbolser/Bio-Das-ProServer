@@ -1,4 +1,4 @@
-#!/usr/bin/perl
+#!/usr/local/bin/perl
 #########
 # ProServer DAS Server
 # Author:        rmp
@@ -7,7 +7,7 @@
 # Last Modified: $Date: 2010-11-02 11:37:11 +0000 (Tue, 02 Nov 2010) $
 # Source:        $Source: /nfs/team117/rmp/tmp/Bio-Das-ProServer/Bio-Das-ProServer/eg/proserver,v $
 # Id:            $Id: proserver 687 2010-11-02 11:37:11Z zerojinx $
-# $HeadURL: http://proserver.svn.sf.net/svnroot/proserver/trunk/eg/proserver $
+# $HeadURL: https://proserver.svn.sourceforge.net/svnroot/proserver/trunk/eg/proserver $
 #
 package proserver;
 use lib qw(./blib/lib ../blib/lib . ..);

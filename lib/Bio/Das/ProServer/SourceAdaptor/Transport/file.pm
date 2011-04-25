@@ -5,7 +5,7 @@
 # Last Modified: 2003-05-27
 # $Id: file.pm 704 2011-01-26 16:19:34Z andyjenkinson $
 # $Source$
-# $HeadURL: http://proserver.svn.sf.net/svnroot/proserver/trunk/lib/Bio/Das/ProServer/SourceAdaptor/Transport/file.pm $
+# $HeadURL: https://proserver.svn.sourceforge.net/svnroot/proserver/trunk/lib/Bio/Das/ProServer/SourceAdaptor/Transport/file.pm $
 #
 # Transport layer for file-based storage (slow)
 #

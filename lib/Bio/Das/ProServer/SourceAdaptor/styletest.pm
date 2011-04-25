@@ -4,7 +4,7 @@
 # Created:       2005-04-20
 # Last Modified: $Date: 2010-11-02 11:37:11 +0000 (Tue, 02 Nov 2010) $
 # $Id: styletest.pm 687 2010-11-02 11:37:11Z zerojinx $
-# $HeadURL: http://proserver.svn.sf.net/svnroot/proserver/trunk/lib/Bio/Das/ProServer/SourceAdaptor/styletest.pm $
+# $HeadURL: https://proserver.svn.sourceforge.net/svnroot/proserver/trunk/lib/Bio/Das/ProServer/SourceAdaptor/styletest.pm $
 #
 # lots of magic numbers in this package:
 ## no critic (ValuesAndExpressions::ProhibitMagicNumbers)

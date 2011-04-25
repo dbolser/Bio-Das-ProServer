@@ -13,14 +13,7 @@ as the server-side complement to the Bio-DasLite client.
 
 More information can be found at the ProServer homepage:
 
-    http://www.sanger.ac.uk/resources/software/proserver/
-
-
-
-DOWNLOAD
-
-svn co https://proserver.svn.sourceforge.net/svnroot/proserver/trunk
-
+    http://www.sanger.ac.uk/proserver/
 
 
 INSTALLATION

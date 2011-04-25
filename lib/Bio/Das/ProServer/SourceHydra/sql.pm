@@ -5,7 +5,7 @@
 # Last Modified: $Date: 2010-11-02 11:37:11 +0000 (Tue, 02 Nov 2010) $
 # Id:            $Id: sql.pm 687 2010-11-02 11:37:11Z zerojinx $
 # Source:        $Source: $
-# $HeadURL: http://proserver.svn.sf.net/svnroot/proserver/trunk/lib/Bio/Das/ProServer/SourceHydra/sql.pm $
+# $HeadURL: https://proserver.svn.sourceforge.net/svnroot/proserver/trunk/lib/Bio/Das/ProServer/SourceHydra/sql.pm $
 #
 # DBI-driven sourceadaptor broker
 #
