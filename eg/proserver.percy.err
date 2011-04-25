@@ -10,3 +10,9 @@ Exited fork at /home/dmb/perl5/lib/perl5/POE/Session.pm line 465
 !!! Child process PID:6484 reaped: 
 !!! Child process PID:6481 reaped: 
 !!! Child process PID:6476 reaped: 
+[2011-04-25 22:36:23] Proserver started
+Server 17802 has begun listening on *:9000 at /home/dmb/perl5/lib/perl5/POE/Session.pm line 465
+Exited fork at /home/dmb/perl5/lib/perl5/POE/Session.pm line 465
+[2011-04-25 22:37:03] Proserver started
+Server 17840 has begun listening on *:9000 at /home/dmb/perl5/lib/perl5/POE/Session.pm line 465
+Exited fork at /home/dmb/perl5/lib/perl5/POE/Session.pm line 465
